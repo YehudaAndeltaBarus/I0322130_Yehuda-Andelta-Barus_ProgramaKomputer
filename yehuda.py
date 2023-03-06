@@ -11,4 +11,4 @@ print(nama__depan)
 print(nama__blk)
 print("nama saya adalah yehuda")
 
-print()
+print(f"nama saya adalah{nama__depan} {nama__blk} dari kelas {dictionary['kelas']}")
